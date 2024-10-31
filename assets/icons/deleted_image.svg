@@ -1,0 +1,10 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M101.889 142H36V57H164V85.2625" stroke="#2DAE89" stroke-width="3" />
+    <path d="M164 92V142H111" stroke="#2DAE89" stroke-width="3" />
+    <path d="M93.7173 156L181 76M58 125.867L88.2769 95.7347L108.383 114.196L122.575 106.345L130.381 114.196"
+        stroke="#2DAE89" stroke-width="3" />
+    <path d="M135 119L143 127" stroke="#2DAE89" stroke-width="3" />
+    <path
+        d="M131.5 83.5C131.5 87.2864 128.224 90.5 124 90.5C119.776 90.5 116.5 87.2864 116.5 83.5C116.5 79.7136 119.776 76.5 124 76.5C128.224 76.5 131.5 79.7136 131.5 83.5Z"
+        stroke="#2DAE89" stroke-width="3" />
+</svg>
