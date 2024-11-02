@@ -33,18 +33,7 @@ Sell Game provides a safe and convenient platform for gamers to buy and sell gam
 4. **Recharge and Payment:** Recharge account balance and use it to complete transactions.
 5. **Order Management:** Track the status of placed orders.
 
-## Screenshots
 
-Add images here to illustrate various screens and features of the Sell Game project:
-
-- **Home Page**
-  ![Home Page](path/to/homepage-image.png)
-
-- **Product List**
-  ![Product List](path/to/productlist-image.png)
-
-- **Checkout Screen**
-  ![Checkout Screen](path/to/checkout-image.png)
 
 
 ---
